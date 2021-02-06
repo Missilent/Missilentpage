@@ -1,0 +1,19 @@
+---
+title: "About Missilent Website"
+---
+
+More about this website.
+
+#rmarkdown::render_site(
+#    input = ".",
+#    output_format = "all",
+#    envir = parent.frame(),
+#    quiet = FALSE,
+ #   encoding = "UTF-8"
+#)
+#Dropbox is free, up to 2 GB, and any folder you make public is served as a static website. There’s no #official #support for custom domains, but it can be done with add-on services like Site44 ($4.95/month) or #KISSr #($10/month).
+#GitHub Pages
+
+#Yes, GitHub will host your static site of any size and using a custom domain for free! Yet, their system #doesn’t support SFTP either, as it’s all organized around git, for obvious reasons. Having to learn git might #be considered a downside. (It would probably be good for you in the long run, but undoubtedly there is a #learning curve.) Fortunately, you can avoid the command-line completely by using the free GUI client.
+
+#To publish your website, you create a git repository, add files to it, and then push updates (“commits”) to #GitHub’s copy of the repository, or repo. At the free level, all repos are publicly viewable, so your entire #website would be open source by default — no secrets here. That’s probably okay, because anything published #on the web is public, anyway, but it means there’s nowhere to hide secret files (or messy code). Of course #you have the option to create a private repository, but doing so will require at least the Micro plan at #$7/month.
